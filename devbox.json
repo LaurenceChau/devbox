@@ -3,6 +3,7 @@
   "packages": [
     "zig@latest",
     "zls@latest",
+    "terramate@latest",
     "terraform@latest"
   ],
   "shell": {
